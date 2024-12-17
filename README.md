@@ -1,4 +1,4 @@
-##Task
+#Task
 You've been given an array and a script.js file with four functions. Your task is to edit the script.js file and write code inside these functions to perform the following tasks:
 
 Print Developers by Map: Console.log all employees with the profession of developer using the map function.
